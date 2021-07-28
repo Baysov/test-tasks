@@ -1,0 +1,5 @@
+https://www.google.com/settings/security/lesssecureapps -> enable application access
+https://accounts.google.com/b/0/DisplayUnlockCaptcha -> allow access from the application server for authentication (up to 10 min)
+
+setup documentation:
+https://support.google.com/accounts/answer/6009563
